@@ -1,13 +1,13 @@
 {
 	"name": "livescript-async-loader",
-	"version": "0.1.6",
+	"version": "0.1.7",
 	"author": "Derk Bell",
 	"description": "LiveScript loader module for webpack",
 	"scripts": {
 		"build": "lsc -cb ./index.ls"
 	},
 	"dependencies": {
-		"livescript-async": "^1.5.1",
+		"livescript-async": "^1.5.2",
 		"loader-utils": "0.2.x"
 	},
 	"repository": {
