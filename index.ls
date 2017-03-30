@@ -1,5 +1,5 @@
 require! {
-	livescript: LiveScript
+	'livescript-async': LiveScript
 	'loader-utils': LoaderUtils
 }
 

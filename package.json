@@ -1,5 +1,5 @@
 {
-	"name": "livescript-loader",
+	"name": "livescript-async-loader",
 	"version": "0.1.6",
 	"author": "Derk Bell",
 	"description": "LiveScript loader module for webpack",
@@ -7,11 +7,11 @@
 		"build": "lsc -cb ./index.ls"
 	},
 	"dependencies": {
-		"livescript": "^1.4.0",
+		"livescript-async": "^1.5.1",
 		"loader-utils": "0.2.x"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/appedemic/livescript-loader.git"
+		"url": "git://github.com/gkovacs/livescript-async-loader.git"
 	}
 }
